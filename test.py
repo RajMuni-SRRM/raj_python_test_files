@@ -16,15 +16,15 @@ t2.start()
 t3.start()
 
 
-# C:\Users\Raj Muni\Desktop>py test.py
-# Good Morning:Good Morning:Good Morning:Seemala
-# Raj
-# Muni
-# Good Morning:Good Morning:Good Morning:Seemala
-# Raj
-# Muni
-# Good Morning:Good Morning:Good Morning:Seemala
-# Raj
+C:\Users\Raj Muni\Desktop>py test.py
+Good Morning:Good Morning:Good Morning:Seemala
+Raj
+#Muni
+ Good Morning:Good Morning:Good Morning:Seemala
+ Raj
+ Muni
+ Good Morning:Good Morning:Good Morning:Seemala
+ Raj
 # Muni
 # Good Morning:Good Morning:Good Morning:Raj
 # Seemala
