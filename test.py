@@ -15,3 +15,20 @@ t1.start()
 t2.start()
 t3.start()
 
+
+C:\Users\Raj Muni\Desktop>py test.py
+Good Morning:Good Morning:Good Morning:Seemala
+Raj
+#Muni
+ Good Morning:Good Morning:Good Morning:Seemala
+ Raj
+ Muni
+ Good Morning:Good Morning:Good Morning:Seemala
+ Raj
+Muni
+Good Morning:Good Morning:Good Morning:Raj
+Seemala
+Muni
+Good Morning:Good Morning:Good Morning:Seemala
+Muni
+Raj
